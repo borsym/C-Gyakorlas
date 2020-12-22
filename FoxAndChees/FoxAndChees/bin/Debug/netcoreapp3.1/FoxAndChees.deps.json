@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FoxAndChees/1.0.0": {
+        "runtime": {
+          "FoxAndChees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoxAndChees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\bin\Debug\netcoreapp3.1\FoxAndChees.exe
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\bin\Debug\netcoreapp3.1\FoxAndChees.deps.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\bin\Debug\netcoreapp3.1\FoxAndChees.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\bin\Debug\netcoreapp3.1\FoxAndChees.runtimeconfig.dev.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\bin\Debug\netcoreapp3.1\FoxAndChees.dll
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\bin\Debug\netcoreapp3.1\FoxAndChees.pdb
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.csprojAssemblyReference.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.csproj.GenerateResource.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.dll
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.pdb
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.genruntimeconfig.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\FoxAndChees\FoxAndChees\obj\Debug\netcoreapp3.1\FoxAndChees.FoxView.resources
