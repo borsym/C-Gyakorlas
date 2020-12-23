@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BlockDocuWPF/1.0.0": {
+        "runtime": {
+          "BlockDocuWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlockDocuWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
