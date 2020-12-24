@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.csprojAssemblyReference.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.BlockDocuView.resources
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.csproj.GenerateResource.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\bin\Debug\netcoreapp3.1\BlockDocuMV.exe
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\bin\Debug\netcoreapp3.1\BlockDocuMV.deps.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\bin\Debug\netcoreapp3.1\BlockDocuMV.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\bin\Debug\netcoreapp3.1\BlockDocuMV.runtimeconfig.dev.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\bin\Debug\netcoreapp3.1\BlockDocuMV.dll
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\bin\Debug\netcoreapp3.1\BlockDocuMV.pdb
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.dll
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.pdb
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\mintaZhk\BlockDocuMV\BlockDocuMV\obj\Debug\netcoreapp3.1\BlockDocuMV.genruntimeconfig.cache
