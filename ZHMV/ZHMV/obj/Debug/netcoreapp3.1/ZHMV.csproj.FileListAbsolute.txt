@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\bin\Debug\netcoreapp3.1\ZHMV.exe
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\bin\Debug\netcoreapp3.1\ZHMV.deps.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\bin\Debug\netcoreapp3.1\ZHMV.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\bin\Debug\netcoreapp3.1\ZHMV.runtimeconfig.dev.json
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\bin\Debug\netcoreapp3.1\ZHMV.dll
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\bin\Debug\netcoreapp3.1\ZHMV.pdb
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.csprojAssemblyReference.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.csproj.GenerateResource.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.dll
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.pdb
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.genruntimeconfig.cache
+C:\Users\Felhasználó\Desktop\Egyetem\Felevek\harmadik_felev\eva\c_sharp\EloreMegcsinaltMinta\ZHMV\ZHMV\obj\Debug\netcoreapp3.1\ZHMV.GameView.resources
